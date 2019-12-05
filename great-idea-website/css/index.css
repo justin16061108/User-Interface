@@ -49,7 +49,7 @@ table {
 
 /* Set every element's box-sizing to border-box */
 * {
-    box-sizing: border-box;
+	box-sizing: border-box;
 }
 
 html, body {
@@ -64,3 +64,130 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+.navigation{
+	display: inline-block;
+	padding:2%;
+	margin: 1%;
+	font-size: 15px;
+	word-spacing: 200px;
+	color: grey;
+}
+
+header{
+	font-size: 100px;
+	word-spacing: 50px;
+	font-family: 'bangers';
+	margin-top: 100px;
+	margin-left: 300px;
+	margin-right: 200px;
+	padding-top: 10px; 
+	box-sizing: border-box;
+	width: 20%;
+	height: 500px;
+	text-align: center;
+	display: inline-block;
+}
+
+.image1{
+	display: inline-block;
+	margin-top: 1px;
+	padding-top: 100px;
+	width: 50%;
+	height: 40%;
+	padding-top: 10px;
+}
+
+.firstSection {
+	width: 33%;
+	height: 30%;
+	margin-top: 5%;
+	margin-left: 15%;
+	font-size: 30px;
+	display: inline-block;
+}
+
+h1{
+	font-size: 40px;
+	}
+
+.secondSection{
+	width: 33%;
+	height: 30%;
+	margin-top: 5%;
+	margin-left: 4%;
+	font-size: 30px;
+	display: inline-block;
+}
+
+h2{
+   font-size: 40px;
+}
+
+.middle-img {
+	margin-left: 20%;
+	margin-top: 1%;
+	padding-right: 20%;
+	padding-left: 20%;
+	margin-right: 30%;
+}
+
+.thirdSection{
+	width: 28%;
+	height: 30%;
+	margin-top: 1%;
+	margin-left: 4%;
+	font-size: 30px;
+	display: inline-block;
+}
+
+h3 {
+  font-size: 40px;
+}
+
+.fourthSection{
+	width: 28%;
+	height: 30%;
+	margin-top: 1%;
+	margin-left: 4%;
+	font-size: 30px;
+	display: inline-block;
+}
+
+h4 {
+	font-size: 40px;
+}
+
+
+.fifthSection{
+	width: 28%;
+	height: 30%;
+	margin-top: 1%;
+	margin-left: 4%;
+	font-size: 30px;
+	display: inline-block;
+}
+
+h5 {
+	font-size: 40px;
+}
+
+.Contact {
+	width: 28%;
+	height: 25%;
+	margin-top: 1%;
+	margin-left: 4%;;
+	font-size: 25px;
+	display: inline-block;
+}
+
+h6 {
+	font-size: 40px;
+	font-family: 'Bangers';
+}
+
+footer{
+	width: 20%;
+	margin-bottom: 1%;
+	margin-left: 40%;
+}
